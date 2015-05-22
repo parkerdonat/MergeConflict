@@ -1,6 +1,5 @@
 # MergeConflict
-A simple iOS application repository to show Git-Flow and handling Merge Conflicts.
-## This change was made by Parker Donat.
+A simple iOS application repository to demonstrate Git-Flow and handling hljhklkjhlkjhkljhkljhkj Merge Conflicts.
+## This change was made by al;djfkljasdlkfjl;aksdjfl;kajsdflkja;ls Parker.
 
 
-Hello, this is a merge conflict. Hope this works. 
